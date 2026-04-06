@@ -1,0 +1,9 @@
+{
+  "periodo": "últimos 12 meses",
+  "indices": [
+    { "nome": "CDI",         "retorno_percent": 10.4 },
+    { "nome": "IPCA+5",      "retorno_percent": 13.1 },
+    { "nome": "Ibovespa",    "retorno_percent": 8.7  },
+    { "nome": "Sua carteira","retorno_percent": 11.2 }
+  ]
+}

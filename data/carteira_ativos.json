@@ -1,0 +1,11 @@
+{
+  "total_investido": 60000,
+  "ativos": [
+    { "nome": "Tesouro IPCA+ 2035", "classe": "Renda Fixa",     "valor": 18000, "percentual": 30 },
+    { "nome": "CDB 110% CDI",       "classe": "Renda Fixa",     "valor": 12000, "percentual": 20 },
+    { "nome": "LCI Isenta IR",      "classe": "Renda Fixa",     "valor": 6000,  "percentual": 10 },
+    { "nome": "ETF BOVA11",         "classe": "Renda Variável", "valor": 12000, "percentual": 20 },
+    { "nome": "Ações WEGE3",        "classe": "Renda Variável", "valor": 6000,  "percentual": 10 },
+    { "nome": "Fundo Multimercado", "classe": "Fundos",         "valor": 6000,  "percentual": 10 }
+  ]
+}
